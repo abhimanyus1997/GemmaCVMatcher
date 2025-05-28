@@ -1,2 +1,14 @@
+langchain
 streamlit
-openai
+PyPDF2
+nltk
+scikit-learn
+wordcloud
+matplotlib
+seaborn
+pillow
+python-dotenv
+google-generativeai
+reportlab
+requests
+beautifulsoup4
