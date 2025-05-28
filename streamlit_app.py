@@ -22,6 +22,10 @@ from reportlab.lib.units import inch # For better positioning
 import base64
 import time
 
+nltk.download('punkt_tab')
+nltk.download("punkt")
+nltk.download("stopwords")
+
 # Set page configuration first
 st.set_page_config(
     page_title="Pro Resume-JD Analyzer",
